@@ -42,3 +42,15 @@ Logs history in weather_history.txt.
 4.) HISTORY
 
 View all previous weather queries from weather_history.txt.
+
+##Install dependencies
+
+Make sure you have Python 3.8+ installed.
+
+pip install streamlit, pandas, folium, streamlit-folium, streamlit-option-menu, requests
+
+##Run the app
+
+Run this command in your project directory:
+
+streamlit run project.py
