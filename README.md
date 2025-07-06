@@ -1,4 +1,4 @@
-##Smart Weather Notifier
+# Smart Weather Notifier
 This is a Streamlit-based Python project that serves as a smart weather dashboard with additional utilities.
 
 It allows you to:
@@ -13,7 +13,7 @@ Visualize weather locations on a map.
 
 See a live clock.
 
-#Features
+# Features
 
 1.) HOME
 
@@ -43,13 +43,13 @@ Logs history in weather_history.txt.
 
 View all previous weather queries from weather_history.txt.
 
-##Install dependencies
+# Install dependencies
 
 Make sure you have Python 3.8+ installed.
 
 pip install streamlit, pandas, folium, streamlit-folium, streamlit-option-menu, requests
 
-##Run the app
+# Run the app
 
 Run this command in your project directory:
 
